@@ -1,0 +1,72 @@
+
+
+h1{
+    font-size: 45px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: 10px solid gold;
+    border-radius: 20px;
+    padding: 25px;
+}
+
+h2{
+    font-size: 40px;
+    text-align: center;
+}
+
+h3{
+    font-size: 30px;
+    text-align: center;
+
+}
+
+footer {
+
+    text-align: center;
+}
+
+#space {
+    height: 200px;
+}
+
+.name {
+    background-color: black;
+    width:50%;
+    border: 8px solid white;
+    border-radius: 10px;
+    position: relative;
+    display: inline-block;
+    padding: 20px;
+   
+
+}
+.namecomp {
+    position: relative;
+    padding: 20px;
+
+}
+
+.toomuch {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    align-self: center;
+    padding:10px;
+
+}
+
+a {
+    display: flex;
+    font-size: 30px;
+    justify-content: center;
+    text-decoration: none;
+
+}
+
+a:hover{
+    background-color: green;
+    color: whitesmoke;
+}
+

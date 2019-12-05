@@ -1,0 +1,28 @@
+{
+  "name": "emergency_compliment",
+  "version": "1.0.0",
+  "description": "app for skool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.generalassemb.ly/BrianGAcoderLove/emergency_compliment.git"
+  },
+  "keywords": [
+    "hw",
+    "week",
+    "5",
+    "part",
+    "1"
+  ],
+  "author": "Brian Loveless",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.0.4",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.7.1"
+  }
+}
